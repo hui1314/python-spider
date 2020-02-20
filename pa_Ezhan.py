@@ -124,7 +124,7 @@ if __name__ == '__main__':
 	#download模式:明确知道动漫名字,直接下载
 	#search模式 ：知道关键词搜索相关动漫名
 	Mod='search'
-	Search_DongM_Name='吃掉你的'
+	Search_DongM_Name='齐木'
 	DongM_Download(Mod,Search_DongM_Name)
 
 	
